@@ -1,8 +1,8 @@
-# F0
+# DC0
 
-> Factoria F0 contract
+> Import form Factoria F0 contract
 
-This repository contains the F0 smart contract for Factoria.
+This repository contains the DC0 smart contract .
 
 # Licensing
 
