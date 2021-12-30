@@ -1,6 +1,6 @@
 # DC0
 
-> Import form Factoria F0 contract
+> Fork from Factoria F0 contract
 
 This repository contains the DC0 smart contract .
 
